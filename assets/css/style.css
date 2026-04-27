@@ -31,11 +31,11 @@ h1 {
   color: #373a3c;
 }
 
-@media (max-width: 768px) 
-  #Contacto form label {
+@media (max-width: 768px) {
+  #Contacto form label 
     font-weight: 400;
   }
 
-  .navbar-brand {
+.navbar-brand {
     width: 100px;
   }
